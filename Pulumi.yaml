@@ -1,0 +1,5 @@
+name: my-cloud-server
+runtime: dotnet
+description: Deploys a simple cloud VM with C#
+config:
+  azure-native:location: WestUS2 # Specifies the Azure region
